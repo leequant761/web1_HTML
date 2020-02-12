@@ -2,7 +2,7 @@
 
 https://opentutorials.org/course/3
 
-https://leequant761.github.io/web1_HTML/3.html
+https://leequant761.github.io/web1_HTML/index.html
 
 ## 키워드
 
